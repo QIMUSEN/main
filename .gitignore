@@ -1,0 +1,5 @@
+/.conda
+/.env
+/.rz-nas-env
+/.venv
+/outputs
