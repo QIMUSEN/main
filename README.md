@@ -1,4 +1,4 @@
-## This is an LLM assignment, for reference only.
+## This is an assignment on large language models, for reference only.
 
 
 ## Search
